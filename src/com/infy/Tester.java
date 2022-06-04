@@ -14,8 +14,10 @@ public class Tester {
 				+ rahul.getAge()
 				+"and name is " +rahul.getName());
 		
-		System.out.println("hello world");
-		System.out.println("hello world");
+		School primary = new School();
+		primary.setName("bharat vidyalaya");
+		primary.setStudentCount("800");
+		System.out.println(primary);
 	
 	}
 	
