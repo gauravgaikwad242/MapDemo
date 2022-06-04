@@ -8,6 +8,7 @@ public class Tester {
 		System.out.println("hello world");
 		List<String> list = List.of("gaurav", "gaikwad");
 		System.out.println("hello world");
+		 System.out.println(list);
 		
 	}
 	
