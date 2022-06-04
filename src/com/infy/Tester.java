@@ -13,6 +13,9 @@ public class Tester {
 		System.out.println("age of student is "
 				+ rahul.getAge()
 				+"and name is " +rahul.getName());
+		
+		System.out.println("hello world");
+	
 	}
 	
 }
