@@ -7,6 +7,8 @@ public class Tester {
 
 	public static void main(String[] args) {
 	
+		System.out.println("start program");
+		
 		School bv= new School();
 		bv.setName("bharat vidyalaya");
 		Student one = new Student();
