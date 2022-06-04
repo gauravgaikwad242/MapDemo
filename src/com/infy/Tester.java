@@ -5,10 +5,14 @@ import java.util.List;
 public class Tester {
 
 	public static void main(String[] args) {
-		System.out.println("hello world");
-		List<String> list = List.of("gaurav", "gaikwad");
-		System.out.println("hello world");
-		
+	
+		Student rahul = new Student();
+		rahul.setName("rahul");
+		rahul.setAge("15");
+	
+		System.out.println("age of student is "
+				+ rahul.getAge()
+				+"and name is " +rahul.getName());
 	}
 	
 }
