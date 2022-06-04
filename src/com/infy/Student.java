@@ -2,7 +2,7 @@ package com.infy;
 
 public class Student {
 
-	
+	//this is entity
 	private String name;
 	private String age;
 	public String getName() {
